@@ -28,3 +28,8 @@ body{
         transform: rotate(360deg)
       }
 }
+
+#wrapper {
+  max-width: 640px;
+  margin: auto;
+}
