@@ -1,12 +1,13 @@
 # Pineapple Pizza Debate
 
-This page on the Pineapple on Pizza Debate refers to the longstanding argument surrounding the merits of Hawaiian pizza, which is a pizza topped with pieces of pineapple. This a projext myself and my contributers worked on during week 2 of NYCDA bootcamp. ![Pizzaaaaaaa!](https://media.giphy.com/media/POmeDOmoTg9CU/giphy.gif)
+This page on the Pineapple on Pizza Debate refers to the longstanding argument surrounding the merits of Hawaiian pizza, which is a pizza topped with pieces of pineapple. This a projext myself and my contributers worked on during week 2 of NYCDA bootcamp. Check it out here: [It's ALLIIIIVVEE!](https://millycodes.github.io/PineapplePizzaDebate/)
+
+![Pizzaaaaaaa!](https://media.giphy.com/media/POmeDOmoTg9CU/giphy.gif)
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [HTML5](https://www.w3schools.com/Html/) - Awesome HTML5!
+* [CSS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - CSS3 baby!!
 
 ## Authors
 
